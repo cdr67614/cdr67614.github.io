@@ -1,0 +1,32 @@
+body {font-size: 20px; color: black; font-family: "Times New Roman"; background-color: lightgray;}
+
+h1 {color: white; background-color: red; text-align: center; border-style: solid; border-width: 5px; border-color: black;}
+
+h2 {color: black; background-color: red; text-align: center; border-style: solid; border-width: 3px; border-color: black; font-weight: bold;}
+
+h3 {text-align: center; font-style: italic;}
+
+h5 {text-align: right}
+
+h6 {text-align: right}
+
+a:link {text-decoration: none; color:#0000EE;}
+a:visited {text-decoration: none; color:#551A8B;}
+a:hover {text-decoration:underline}
+
+table {text-align: center; border-spacing: 20px; border: 2px solid black; margin: auto;}
+
+img {margin-top: 20px; margin-bottom: 20px; border: 5px solid white;}
+
+img.center {display: block; margin: 0 auto;}
+
+iframe {float: inherit}
+
+footer {text-align: right;}
+
+header {text-align: right}
+
+
+
+
+
